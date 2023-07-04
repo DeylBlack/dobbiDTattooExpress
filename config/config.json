@@ -1,0 +1,6 @@
+{
+  "port": 3000,
+  "jwtSecret": "DobbiD Tattoo jwt key",
+  "mongoUrl": "mongodb+srv://sitedeylz:CchNzC4k98iiqylV@cluster0.0y4k5ca.mongodb.net/tattoo",
+  "imgBucket": "photos"
+}
